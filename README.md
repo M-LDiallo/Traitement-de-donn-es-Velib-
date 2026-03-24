@@ -21,3 +21,7 @@ Les résultats peuvent être exportés en HTML pour générer une page web.
 - python : fonctions
 - json : données
 - html/css : affichage
+
+## Aperçu
+
+![Aperçu du projet](image_2026-03-24_165011962.png)
